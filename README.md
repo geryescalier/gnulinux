@@ -1,2 +1,2 @@
-# gnulinux
-Documentando sobre Gnu Linux
+# GNU LINUX
+Documentando sobre GNU Linux
