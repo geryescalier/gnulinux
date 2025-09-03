@@ -1,4 +1,4 @@
-# Actualizar de Debian 12 a Debian 13
+# Actualiza Debian 12 a Debian 13
 ## Importante
 
 Hacer una copia de seguridad: antes de iniciar el proceso de actualización para evitar pérdida de datos.
